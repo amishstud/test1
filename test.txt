@@ -3,3 +3,5 @@ line 1
 i've changed this line.
 
 line 3 <-- changed
+
+My new fourth line!!
